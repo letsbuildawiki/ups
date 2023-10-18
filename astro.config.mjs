@@ -8,7 +8,8 @@ export default defineConfig({
 		starlight({
 			title: 'My Docs',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				discord: 'https://discord.gg/hqPw9duXtP',
+				github: 'https://github.com/letsbuildawiki/ups',
 			},
 			sidebar: [
 				{
