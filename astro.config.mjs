@@ -22,15 +22,8 @@ export default defineConfig({
 					link: '/'
 				},
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'World Ship',
+					autogenerate: { directory: 'world-ship' },
 				},
 			],
 		}),
