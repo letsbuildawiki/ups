@@ -11,6 +11,7 @@ export default defineConfig({
 			editLink: {
 				baseUrl: 'https://github.com/letsbuildawiki/ups/edit/main/',
 			},
+			lastUpdated: true,
 			social: {
 				discord: 'https://discord.gg/hqPw9duXtP',
 				github: 'https://github.com/letsbuildawiki/ups',
