@@ -3,7 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	base: "/ups",
+	site: 'https://wiki.letsbuilda.dev/',
+	base: '/ups',
 	integrations: [
 		starlight({
 			title: 'United Parcel Service',
