@@ -6,7 +6,10 @@ export default defineConfig({
 	base: "/ups",
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'United Parcel Service',
+			editLink: {
+				baseUrl: 'https://github.com/letsbuildawiki/ups/edit/main/',
+			},
 			social: {
 				discord: 'https://discord.gg/hqPw9duXtP',
 				github: 'https://github.com/letsbuildawiki/ups',
