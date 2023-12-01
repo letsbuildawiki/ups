@@ -1,1 +1,3 @@
+# Don't ignore docs because this is a docs-only repo
+docs/** -linguist-documentation
 *.md linguist-detectable
