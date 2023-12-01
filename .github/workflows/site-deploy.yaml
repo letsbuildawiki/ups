@@ -14,4 +14,4 @@ jobs:
       pages: write
       id-token: write
 
-    uses: letsbuildawiki/.github/.github/workflows/site-from-template.yaml
+    uses: letsbuildawiki/.github/.github/workflows/site-from-template.yaml@5c8e726115d6584ef0344b1d5447f536a7a4493a # v1.0.0
